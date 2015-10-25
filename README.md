@@ -1,11 +1,11 @@
-# Meteor jsPDF-AutoTable
+# Meteor NextWebSteps SimpleMDE
 
-[https://someatoms.github.io/jsPDF-AutoTable/](jsPDF-AutoTable) packaged for Meteor.
+[SimpleMDE](https://github.com/NextStepWebs/simplemde-markdown-editor) packaged for Meteor.
 
 Installation
 
 With Meteor 1.0.1 and above, install using:
 
 ```
-$ meteor add jspdf:autotable
+$ meteor add nextwebsteps:simplemde
 ```
