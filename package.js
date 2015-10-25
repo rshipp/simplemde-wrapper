@@ -6,10 +6,13 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.0.1');
 
   api.addFiles([
-    'upstream/nextwebsteps.plugin.simplemde.js',
+    'upstream/simplemde.min.js',
+  ], 'client');
+
+  api.addAssets([
+    'upstream/simplemde.min.css',
   ], 'client');
 });
 
